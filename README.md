@@ -6,7 +6,7 @@
 ---
 
 ## 1. Fase Teòrica: Píndola Formativa i Recursos Educatius
-* **Enllaç al vídeo de la píndola formativa:** [ENGANXA_AQUÍ_EL_TEU_ENLLAÇ_DE_YOUTUBE_O_DRIVE]
+* **Enllaç al vídeo de la píndola formativa:** [https://drive.google.com/file/d/1uSn7UqMCCw1j4XHcM5KY8eOfCNIGEFog/view?usp=drivesdk]
 * **Descripció del recurs:** Píndola audiovisual d'entre 5 i 10 minuts amb un mapa conceptual adjunt on s'explica de manera teòrica el concepte de DNS, la gestió de dominis, l'arquitectura jeràrquica en arbre, el funcionament de les consultes recursives i iteratives, el paper dels Root Servers i servidors autoritatius, els tipus de zones i la resolució local mitjançant mDNS.
 
 ---
