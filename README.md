@@ -83,3 +83,4 @@ La màquina virtual s'ha configurat amb dues interfícies de xarxa per complir a
 * Documentació tècnica de les comandes de xarxa en entorns Linux (`man dig`, `man nslookup`).
 * Manuals de referència sobre registres SOA, NS, PTR i el protocol mDNS.
 * Ús de sistemes d'intel·ligència artificial com a suport per a l'estructuració formal i redacció de la guia tècnica.
+* ** [https://share.gemini.google/G0q1gPIpN5rh]
